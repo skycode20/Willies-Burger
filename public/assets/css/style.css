@@ -1,7 +1,10 @@
 body {
   width: 99%;
   height: 900px;
-  background-color: #fc6;
+  background-image: url("../images/fastfood.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  
 }
 
 #top-bar {
@@ -64,5 +67,5 @@ body {
 }
 
 h1 {
-  color: #f30;
+  color: rgb(73, 150, 79);
 }
