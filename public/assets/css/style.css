@@ -69,3 +69,8 @@ body {
 h1 {
   color: rgb(73, 150, 79);
 }
+
+.sub-mes {
+  font-size: x-large;
+  color: rgb(255, 255, 255);
+}
