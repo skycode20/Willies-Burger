@@ -64,13 +64,17 @@ body {
 #text-enter-button {
   margin-top: 10px;
   margin-bottom: 18px;
+  background-color: sandybrown;
+  border-color: rgb(68, 33, 4);
 }
 
 h1 {
   color: rgb(73, 150, 79);
+  text-shadow: 5px 5px 25px rgb(255, 255, 255);
 }
 
 .sub-mes {
   font-size: x-large;
   color: rgb(255, 255, 255);
+  text-shadow: 5px 5px 10px rgb(73, 150, 79);
 }
