@@ -1,5 +1,5 @@
 {
-  "name": "Willies-Burger",
+  "name": "willies-burger",
   "version": "1.0.0",
   "description": "Harlem's Famous Burger application serving you delicious burgers!",
   "main": "server.js",
