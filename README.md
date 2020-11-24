@@ -55,7 +55,7 @@ My aspirations for the future of this application are to expand its functionalit
 
   ## Usage    
 
-  You type the name of the burger you want and then press the button to submit it. Then you take a bite out of it. Then it moves into the devoured section.
+  This application is very easy to use! You type the name of the burger you want into the user input and then press the button to submit it. Then you take a bite out of it by pressing the `DEVOUR` button. Then it moves into the devoured section with the rest of the consumed burgers.
 
   ## License    
 
