@@ -40,6 +40,19 @@ My aspirations for the future of this application are to expand its functionalit
 
   The app is deployed on Heroku.
 
+  To install the **Willie's Burger Application** please follow these steps:
+
+  1. Download all of the project's source files `(clone the GitHub repository)`.
+  2. Ensure your terminal is inside of the current folder that contains the source files.
+  3. Install the following **NPMs** `(Node Package Managers)` in the system terminal:
+        * Node.js
+        * Express (command: ```npm i express```)
+        * Express-Handlebars (command: ```npm i express-handlebars```)
+        * MySQL (command: ```npm i mysql```)
+        * **Or just ```npm i``` that will install the packages within the `package.json` file.**
+
+  4. Go to the `schema.sql` file inside of the `db` directory and copy all of the code. Paste the code inside of your `MySQL Workbench` to create the table. Doing so will allow the app to access your table from the application.
+
   ## Usage    
 
   You type the name of the burger you want and then press the button to submit it. Then you take a bite out of it. Then it moves into the devoured section.
