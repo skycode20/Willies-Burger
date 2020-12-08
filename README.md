@@ -5,6 +5,10 @@
   [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](code_of_conduct.md)
 
   - by *Skyler Rencher*
+
+    <p align=center>
+    <img src="public\assets\images\burger.png" alt="Willie's Burger logo" width= 40% height= 40%>
+    </p>
   
   ## Description    
 
@@ -21,7 +25,19 @@
   </p>
   <br>
 
-Consequently the application never successfully launched despite being deployed successfully. 
+Consequently the application never successfully launched despite being deployed successfully.
+
+**Update**
+
+I was able to determine what the cause of the issue was with the deployed application. It was due to the JAWSDB not being utilized with the deployed application. Once the database was connected, the schema and the seeds were entered in, the application worked how intended.
+
+  <br>    
+  <p align=center>
+    <img src="public\assets\images\willies-burger-pic.jpg" alt="Willie's Burger app UI." width= 80% height= 80%>
+  </p>
+  <br>
+
+
 
 My aspirations for the future of this application are to expand its functionality to do the following:
 - Connect to real burger restaurants to receive the desired burgers from their customers to actually be able to fulfill the order. Once the order is complete the customer can log in their app that it was devoured and write a review on the burger.
